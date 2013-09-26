@@ -1,0 +1,17 @@
+G:\My Projects\Minesweeper\Minesweeper 3\bin\Debug\Minesweeper.exe.config
+G:\My Projects\Minesweeper\Minesweeper 3\obj\Debug\Minesweeper.exe
+G:\My Projects\Minesweeper\Minesweeper 3\obj\Debug\Minesweeper.xml
+G:\My Projects\Minesweeper\Minesweeper 3\obj\Debug\Minesweeper.pdb
+G:\My Projects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+G:\My Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+G:\My Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.xml
+G:\My Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+G:\My Projects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+G:\My Projects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+G:\My Projects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.xml
+G:\My Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.BestTimeForm.resources
+G:\My Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.CustomForm.resources
+G:\My Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.MainForm.resources
+G:\My Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Resources.resources
+G:\My Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.TimesForm.resources
+G:\My Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.vbproj.GenerateResource.Cache

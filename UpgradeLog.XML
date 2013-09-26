@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Minesweeper 3">
+</Property><Property Name="Solution File" Value="G:\My Projects\Minesweeper\Minesweeper 3.sln">
+</Property><Property Name="User Options File" Value="G:\My Projects\Minesweeper\Minesweeper 3.suo">
+</Property><Property Name="Date" Value="Wednesday, March 07, 2012">
+</Property><Property Name="Time" Value="17:07 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Minesweeper 3.sln" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Minesweeper 3.suo" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3.suo">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Minesweeper 3.vbproj" Description="Project file successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\Minesweeper 3.vbproj">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Minesweeper 3.vbproj.user" Description="Project user file successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\Minesweeper 3.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Best Time Form.designer.vb" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\Best Time Form.designer.vb">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Best Time Form.vb" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\Best Time Form.vb">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Custom Form.designer.vb" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\Custom Form.designer.vb">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Custom Form.vb" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\Custom Form.vb">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Main Form.Designer.vb" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\Main Form.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Main Form.vb" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\Main Form.vb">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\MineTile.vb" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\MineTile.vb">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\My Project\AssemblyInfo.vb" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\My Project\Application.Designer.vb" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\My Project\Resources.Designer.vb" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\My Project\Settings.Designer.vb" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Times Form.designer.vb" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\Times Form.designer.vb">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Times Form.vb" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\Times Form.vb">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\app.config" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\app.config">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\My Project\Application.myapp" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\My Project\Settings.settings" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Resources\Flag.png" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\Resources\Flag.png">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Resources\Eagle.png" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\Resources\Eagle.png">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Resources\EagleLose.png" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\Resources\EagleLose.png">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Resources\EagleWin.png" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\Resources\EagleWin.png">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Best Time Form.resx" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\Best Time Form.resx">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Custom Form.resx" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\Custom Form.resx">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Main Form.resx" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\Main Form.resx">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\My Project\Resources.resx" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Times Form.resx" Description="File successfully backed up as G:\My Projects\Minesweeper\Backup\Minesweeper 3\Times Form.resx">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Minesweeper 3.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Minesweeper 3" Source="Minesweeper 3\Minesweeper 3.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Minesweeper 3.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Minesweeper 3.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Minesweeper 3" Source="Minesweeper 3\Minesweeper 3.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
